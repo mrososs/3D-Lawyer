@@ -1,0 +1,8 @@
+node_modules
+dist
+*.local
+*.tsbuildinfo
+verification
+.vercel
+.env
+.env.*
